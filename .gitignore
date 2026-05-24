@@ -1,0 +1,15 @@
+# Ambientes virtuais (Python)
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos de dados pesados / compactados
+*.csv
+*.zip
+*.rar
+
+# Checkpoints do Jupyter Notebook (caso use)
+.ipynb_checkpoints/
